@@ -18,7 +18,7 @@ website:
 
   sidebar:
     background: "#325b74" # Pantone Midnight - Fall 2022
-    logo: "images/logo.png"
+    logo: "images/davidson-workmark-lockup.png"
     pinned: true
     align: center
     tools:
